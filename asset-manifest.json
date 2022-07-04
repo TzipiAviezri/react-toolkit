@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-toolkit/static/css/main.445a9a38.css",
+    "main.js": "/react-toolkit/static/js/main.d84bea58.js",
+    "static/js/787.4337e7e0.chunk.js": "/react-toolkit/static/js/787.4337e7e0.chunk.js",
+    "static/media/logo.svg": "/react-toolkit/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/react-toolkit/index.html",
+    "main.445a9a38.css.map": "/react-toolkit/static/css/main.445a9a38.css.map",
+    "main.d84bea58.js.map": "/react-toolkit/static/js/main.d84bea58.js.map",
+    "787.4337e7e0.chunk.js.map": "/react-toolkit/static/js/787.4337e7e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445a9a38.css",
+    "static/js/main.d84bea58.js"
+  ]
+}
